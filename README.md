@@ -1,7 +1,7 @@
-<body style="font-size:20px;">
+<body font-size=20px>
 👋I'm Aditya Yadav, a dedicated Computer Science and Engineering student pursuing my Bachelor's degree at Shri Ramdeobaba College of Engineering and Management, Nagpur.
 
-<div id="header" align="center">
+<div id="header" align="center" height=50px weight=50px>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
