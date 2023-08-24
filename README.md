@@ -1,4 +1,9 @@
+<body style="font-size:20px;">
 👋I'm Aditya Yadav, a dedicated Computer Science and Engineering student pursuing my Bachelor's degree at Shri Ramdeobaba College of Engineering and Management, Nagpur.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 
 ✨During my academic journey, I actively seek internships and projects to enhance my skills. Recently, I completed a Software Engineering Virtual Experience program with Goldman Sachs, gaining hands-on experience in password cracking and improving security using Hashcat. I also successfully completed an Amazon Web Services virtual internship provided by AICTE, refining my cloud computing abilities.
 
@@ -13,3 +18,4 @@
 ⚽Outside academics, I enjoy football to maintain a healthy work-life balance.
 
 📧Feel free to contact me at yadava1tya12@gmail.com or via LinkedIn for potential collaborations and exciting technology prospects. I'm eager to connect with like-minded professionals. Thank you!
+</body>
