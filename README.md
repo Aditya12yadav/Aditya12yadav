@@ -32,3 +32,4 @@
 
 📧Feel free to contact me at yadava1tya12@gmail.com or via LinkedIn for potential collaborations and exciting technology prospects. I'm eager to connect with like-minded professionals. Thank you!
 </h4>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya12yadav)
